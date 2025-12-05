@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation (optional - remove if you want them in the image)
+*.md
+!README.md
+
+# Test files
+test_*.py
+verify_*.py
+
+# Environment
+.env
+.env.local
+
+# Uploads
+uploads/
+*.pdf
+
+# Logs
+*.log
