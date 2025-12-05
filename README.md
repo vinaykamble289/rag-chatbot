@@ -4,8 +4,8 @@ A simple, **100% free** Retrieval-Augmented Generation (RAG) chatbot that answer
 
 ## 🔗 Links
 
-- **Live Demo**: [Deploy to get your link]
-- **GitHub**: [Your repository link]
+- **Live Demo**: [[Deploy to get your link]](https://huggingface.co/spaces/vinaykamble289/rag-chatbot)
+- **GitHub**: [[Your repository link]](https://github.com/vinaykamble289/rag-chatbot)
 
 > After deployment, update these links with your actual URLs!
 
